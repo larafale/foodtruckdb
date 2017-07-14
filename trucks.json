@@ -100,7 +100,7 @@
             "slug": "la-petite-pizzeria",
             "slogan": "",
             "cover": "r2dt2a32bxbyy68sjca6",
-            "tags": "Pizza, Sucré",
+            "tags": "Pizza, Italien",
             "starttime": "18:00",
             "endtime": "22:00",
             "location": {
@@ -112,14 +112,18 @@
                 "region": "Auvergne-Rhône-Alpes",
                 "state": "Rhône",
                 "latlng": "45.7687182,4.786445"
-            }
+            },
+            "facebook": "lapetitepizzeriaofficiel",
+            "phone": "06 28 27 80 42",
+            "mail": "contact@lapetitepizzeria.fr",
+            "verified": true
         },
         {
             "name": "ROUTE 69",
             "slug": "route-69",
             "slogan": "La cuisine voyage pour vous",
             "cover": "oqo7nbnft71t3ntau2fr",
-            "tags": "Cuisine française, Burger",
+            "tags": "Cuisine française, Burger, Salades",
             "starttime": "18:30",
             "endtime": "22:00",
             "location": {
@@ -131,7 +135,11 @@
                 "region": "Auvergne-Rhône-Alpes",
                 "state": "Rhône",
                 "latlng": "45.8448837,4.8543534"
-            }
+            },
+            "facebook": "Route69.restomobile",
+            "phone": "06 51 56 18 12",
+            "mail": "boissinfrance@gmail.com",
+            "verified": true
         },
         {
             "name": "The rolling cantine",
@@ -150,7 +158,12 @@
                 "region": "Auvergne-Rhône-Alpes",
                 "state": "Rhône",
                 "latlng": "45.7600009,4.8410206"
-            }
+            },
+            "facebook": "The-rolling-cantine-622887494403330",
+            "phone": "06 22 59 39 39",
+            "mail": "contact@therollingcantine.com",
+            "website": "http://www.therollingcantine.com",
+            "verified": true
         },
         {
             "name": "SEN le food truck du Sport",
@@ -188,7 +201,10 @@
                 "region": "Auvergne-Rhône-Alpes",
                 "state": "Rhône",
                 "latlng": "45.7718618,4.9795536"
-            }
+            },
+            "facebook": "Queen-pizza-décines-937284129688982",
+            "phone": "06 10 97 21 76",
+            "verified": true
         },
         {
             "name": "itinévin",

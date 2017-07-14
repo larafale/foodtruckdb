@@ -1,13 +1,19 @@
 # foodtruckdb
 
+## Publicated version 
+[Temp Domain 1](https://app-btohsabsvn.now.sh/)
+[Temp Domain 2](https://allofoodtruck.now.sh/)
+[Final Domain](https://allofoodtruck.com/) - **Not published**
+
 ## Data model for food-trucks table
 - (**name**)           : *Nom du FoodTruck*
 - (**slug**)           : *Slug/ID*
+- (**slogan**)         : *Slogan*
 - (**tags**)           : *Hashtags (Spécialités, Univers, ...)* séparés par une virgule au sein d'une même **string**
 - (**cover**)          : *Image de couverture*, lien de l'image dans une **string**
 - (**latlng**)         : *Latitude et Longitude*, séparés par une virgule dans une **string**
 - (**city**)           : *Ville*
-- (**open days**)      : *Jours d'ouverture*
+- (**open_days**)      : *Jours d'ouverture*
 - (**description**)    : *Description (Menus, Infos diverses, ...)*
 - (**private_events**) : *Dispo pour des évents privés (OUI/NON)*, **boolean**
 - (**reservation**)    : *Dispo pour des réservations de repas (OUI/NON)*, **boolean**
